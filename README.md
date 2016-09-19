@@ -1,0 +1,2 @@
+# lottosix-nginx
+nginx config
